@@ -19,6 +19,8 @@ def menu
 	
   eleccion = gets.chomp.to_i
 
+  eleccion
+
 end
 
 # Método para validar la entrada del menú
