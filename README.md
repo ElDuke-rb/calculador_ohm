@@ -1,6 +1,6 @@
 # calculador_ohm
 
-Esta aplicación está echa para apoyar con los cálculos que se requieran hacer en electricidad relacionados con la **Ley de Ohm**, esto de manera amigable y a la vez eficiente para que el usuario pueda con confianza apoyarse de esta.
+Esta aplicación está hecha para apoyar con los cálculos que se requieran hacer en electricidad relacionados con la **Ley de Ohm**, esto de manera amigable y a la vez eficiente para que el usuario pueda con confianza apoyarse de esta.
 
 ## ¿Qué es la Ley de Ohm?
 
@@ -18,7 +18,7 @@ donde:
 
 ## Requerimientos
 
-Para ejecutar esta aplicación es requerido tener Ruby instalado, para verificar si se tiene instalada alguna de sus versiones, se puede ejecutar el siguiente comando en la una terminal:
+Para ejecutar esta aplicación es requerido tener Ruby instalado, para verificar si se tiene instalada alguna de sus versiones, se puede ejecutar el siguiente comando en una terminal:
 
 ```bash
 ruby --version
@@ -47,7 +47,7 @@ El directorio de la aplicación contiene los siguientes elementos:
 
 1. `README.md`: Es este archivo en el cual está la documentación de la aplicación.
 2. `calcular_ohm.rb`: Contiene los métodos que calculan cada incógnita.
-3. `main.rb`: Es el Archivo principal donde convergen todos los componentes de la aplicación.
+3. `main.rb`: Es el archivo principal donde convergen todos los componentes de la aplicación.
 4. `ui.rb`: contiene los elementos requeridos para interactuar con el usuario, así como la lógica para recibir y validar los datos ingresados por el usuario.
 
 ## Modo de uso
@@ -74,7 +74,7 @@ Escriba la opción y presione enter:
 |
 ```
 
-Al escribir el número correspondiente a lo que se desea calcular, a continuación se le solicitará los valores de las dos variables restantes, estos son requeridos para aplicar la fórmula. Por ejemplo si lo que se necesita es calcular el valor de la intensidad:
+Al escribir el número correspondiente a lo que se desea calcular, a continuación se le solicitará los valores de las dos variables restantes, estos son requeridos para aplicar la fórmula. Por ejemplo, si lo que se necesita es calcular el valor de la intensidad:
 
 - El usuario escribiría el número `1` y dará enter.
 - Lo que a continuación verá es lo siguiente:
